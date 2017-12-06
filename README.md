@@ -1,7 +1,7 @@
 # Family-Tree-React-Redux
 
-Download and Open Terminal
-cd {main} folder
+#### Download and Open Terminal
+#### cd main_folder
 ```
 npm install
 npm start
